@@ -1,6 +1,6 @@
 # Learning to Solve Routing Problems via Distributionally Robust Optimization 
 
-A DRL method to optimize the peformance on worst-case groups for routing problems when the training set contains more at least two types of distributions.
+A DRL method to optimize the peformance on worst-case groups for routing problems when the training set contains at least two types of distributions.
 
 ## Paper
 
