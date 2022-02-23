@@ -17,7 +17,7 @@ Yuan Jiang, Yaoxin Wu, Zhiguang Cao, Jie Zhang. [Learning to Solve Routing Probl
 
 ## Incorporate with deep model
 
-User are free to integerated with routing deep models like AM and POMO with our framework, then run the corresponding experiments.
+Users are free to integerated with routing deep models like AM and POMO with our framework, then run the corresponding experiments.
 
 ### Run
 ```
