@@ -1,6 +1,6 @@
 # Learning to Solve Routing Problems via Distributionally Robust Optimization 
 
-A DRL method to optimize the peformance on worst-case groups for routing problems when the training set contains at least two types of distributions.
+A Distributionally Robust Optimization framework to optimize the peformance on the worst-case groups for routing problems when the training set contains at least two types of distributions. 
 
 ## Paper
 
@@ -17,7 +17,7 @@ Yuan Jiang, Yaoxin Wu, Zhiguang Cao, Jie Zhang. [Learning to Solve Routing Probl
 
 ## Incorporate with deep model
 
-Users are free to integerated with routing deep models like AM and POMO with our framework, then run the corresponding experiments.
+Users are free to integerated with routing deep models like AM and POMO with our framework, then run the corresponding experiments. (Note: The DRO framework is not designed for the training process with only one distribution like Uniform. In this case, it will act the same as the original deep model. )
 
 ### Run
 ```
